@@ -1,0 +1,15 @@
+ls → list files and folders
+
+pwd → show current directory
+
+cd → change directory
+
+mkdir test → create folder named "test"
+
+rm file.txt → remove a file
+
+cp file1.txt file2.txt → copy file
+
+mv old.txt new.txt → rename/move file
+
+clear → clear terminal screen
